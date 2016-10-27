@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://yqall02.baidupcs.com/file/f8124fdfe35dd370068afb01e39c553d?bkt=p3-00007d5738bcbf28f60c231a411b33c54608&fid=3456244313-250528-1042504445001395&time=1477564572&sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-mhmmyMqUJIq4BRY%2BXBj%2FpyMbaDY%3D&to=yqhb&fm=Yan,B,U,t&sta_dx=128398327&sta_cs=2&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=Yangquan,B,U,t&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=00007d5738bcbf28f60c231a411b33c54608&sl=76480590&expires=8h&rt=sh&r=611068875&mlogid=6975824876729995354&vuk=3456244313&vbdid=3467351350&fin=com.dianping.dpscope.ipa&slt=pm&uta=0&rtype=1&iv=0&isw=0&dp-logid=6975824876729995354&dp-callid=0.1.1&hps=1&csl=80&csign=UtL26mqcPYUc7ImcEmuMedmWY5k%3D</string>
+					<string>http://127.0.0.1:60230/ttt</string>
 				</dict>
 				<dict>
 					<key>kind</key>

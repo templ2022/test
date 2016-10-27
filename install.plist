@@ -11,25 +11,35 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:8888/Cache/com.dianping.dpscope.ipa</string>
+					<string>http://127.0.0.1:60030/933958078_249000_2.4.9.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://is5.mzstatic.com/image/thumb/Purple62/v4/37/20/e7/3720e7aa-680a-46fb-9374-96f4f31f9093/source/60x60bb.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
 					<key>url</key>
-					<string>http://kpic.wanmeiyueyu.com/au/APPINFOR/27/3/com.dianping.dpscope/BigIcon_1474560000.jpg</string>
+					<string>http://is5.mzstatic.com/image/thumb/Purple62/v4/37/20/e7/3720e7aa-680a-46fb-9374-96f4f31f9093/source/60x60bb.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dianping.dpscope.ipa</string>
+				<string>com.rovio.angrybirdsfight.exp</string>
 				<key>bundle-version</key>
-				<string>9.0.2</string>
+				<string>250051</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>大众点评—免费吃喝玩乐，不差钱儿</string>
+				<string>愤怒的小鸟大作战：全球玩家实时三消对战</string>
 			</dict>
 		</dict>
 	</array>

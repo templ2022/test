@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:12345/com.dianping.dpscope.ipa</string>
+					<string>http://http://172.18.188.254/com.dianping.dpscope.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
